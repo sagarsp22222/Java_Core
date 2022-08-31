@@ -6,6 +6,8 @@ public class sp{
     static double d;
 
      public static void main(String []args){
+		 
+		 /* This are print statments*/
         System.out.println(" This is a List");
 		
 		System.out.println("char is not showing coz it's null" + a);
